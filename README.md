@@ -8,7 +8,7 @@ This repository contains the initial stage of a student project to build a clone
 
 <center><h3>Repository Contents by Project Task</h3> </center>
 
-| 0: README File 
+| 0: README File ```
 | 1: Pep8 | All code is pep8 compliant
 | 2: Unit Testing 
 | 3. Make BaseModel | Defines a parent class to be inherited by all model classes
